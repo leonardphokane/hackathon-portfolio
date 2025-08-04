@@ -1,36 +1,40 @@
-# 🚀 Hackathon Portfolio by Leonard Phokane  
-### Ethical Tech Advocate | Afro-futurist Designer | Full-stack Pathfinder  
+# 🚀 Hackathon Portfolio by Leonard Phokane
 
-Welcome to a boundary-pushing digital portfolio built for Hackathon 1 by PLP Academy. This isn’t just code — it’s culture in motion.
+A legacy-inspired showcase built for PLP Hackathon 1: Portfolio Building. This project blends modular frontend architecture with Afro-futurist storytelling, ethical tech principles, and scalable design.
 
-## 🌐 Live Site  
-🔗 [View Project](https://leonardphokane.github.io/hackathon-portfolio)
+## 🌐 Live Preview
+🔗 [Visit Portfolio](https://leonardphokane.github.io/hackathon-portfolio)
 
 ## 🧪 Tech Stack
-- HTML5 + CSS3 + Vanilla JS  
-- AOS.js for sleek scroll effects  
-- Custom Animations with Tailwind vibes  
-- Mobile-first, pixel-perfect layout
+- HTML5 & CSS3
+- JavaScript
+- AOS.js for scroll animations
+- Responsive grid layout
+- GitHub Pages for deployment
 
-## 🎨 Brand Narrative  
-Built to reflect a fusion of:
-- **Afro-futurism** — celebrating innovation through a cultural lens  
-- **Ethical Tech** — UI/UX crafted with digital dignity  
-- **Cloud-readiness** — prepped for deployment at scale (via AWS, Flutter, or EC2)
+## 🎨 Brand Narrative
+This portfolio reflects:
+- **Afro-futurism** — innovation through cultural identity
+- **Ethical Tech** — design with dignity and accessibility
+- **Cloud-readiness** — scalable systems and modular components
 
-## 🌟 Features
-- Scroll-activated skill showcase  
-- Dynamically framed project cards  
-- Social icons + GitHub integrations  
-- Fully responsive — designed for phones, desktops, and everything in between
+## 📦 Project Highlights
+- 🔧 Modular project cards with embedded images
+- 📱 Mobile-first layout with smooth transitions
+- 🧠 Sections for Kazilink, Zulutech, Send Money App, Fairness Inspector, and AWS deployments
+- 📄 Footer with grid layout and hover effects
+- 🎯 Animated role banner: Full Stack Developer | Web Designer | Flutter App Developer
 
 ## 🏆 Hackathon Impact
-Crafted for PLP’s **Hackathon 1: Portfolio Building**, this project demonstrates:
-- UI/UX storytelling  
-- Commit discipline via GitHub  
-- Open-source spirit through collaborative deployment  
-- A personal brand ready to evolve into CI/CD pipelines
+Built collaboratively with peers, this portfolio demonstrates:
+- UI/UX storytelling
+- Git discipline and clean commits
+- Open-source spirit and community-driven design
 
-## 🧠 Reflection
-This project is more than a task — it’s a signature. Every hover, animation, and breakpoint is intentional.  
-As I continue building with Flutter, AWS, and TensorFlow Lite… this portfolio will grow, just like the vision behind **Zulutech** 🌍✨
+## 📫 Contact
+- 📧 leonardphokane1@gmail.com
+- 📞 +27 72 350 7514
+- 🌍 South Africa
+
+---
+
