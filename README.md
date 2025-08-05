@@ -1,3 +1,9 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Deployment](https://img.shields.io/badge/live--demo-available-yellow)
+![Tech Stack](https://img.shields.io/badge/techstack-HTML%2FCSS%2FJS%2FTS-informational)
+![PLP Impact](https://img.shields.io/badge/PLP-1MillionDevs4Africa-purple)
+
 # 🚀 Hackathon Portfolio by Leonard Phokane
 
 A legacy-inspired showcase built for PLP Hackathon 1: Portfolio Building. This project blends modular frontend architecture with Afro-futurist storytelling, ethical tech principles, and scalable design.
@@ -37,4 +43,5 @@ Built collaboratively with peers, this portfolio demonstrates:
 - 🌍 South Africa
 
 ---
+
 
