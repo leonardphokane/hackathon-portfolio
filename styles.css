@@ -74,8 +74,20 @@ body {
   padding: 4rem 0;
   text-align: left;
 }
+.centered-profile {
+  width: 300px;
+  height: auto;
+  border-radius: 50%;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease;
+}
+
+.centered-profile:hover {
+  transform: scale(1.05);
+}
+
 .role-banner {
-  background: linear-gradient(to right, #eef2f5, #ffffff);
+  background: linear-gradient(to right, #eef2f5, #008080);
   padding: 40px 20px;
   text-align: center;
   border-radius: 10px;
@@ -132,9 +144,28 @@ body {
   color: #475569;
   margin-bottom: 1rem;
 }
+.hero-description {
+  text-align: center;          /* Center-aligns the text itself */
+  margin-left: auto;           /* Pushes left margin to auto */
+  margin-right: auto;          /* Pushes right margin to auto */
+  max-width: 700px;            /* Keeps it readable on wide screens */
+  margin-top: 30px;
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
 
 .hero-buttons {
   margin: 2rem 0;
+}
+.hero-buttons,
+.social-icons {
+  display: flex;
+  justify-content: center;      /* Centers horizontally */
+  margin-left: auto;
+  margin-right: auto;           /* Keeps it centered */
+  max-width: 600px;             /* Optional: limits horizontal spread */
+  margin-top: 20px;
+  gap: 20px;
 }
 
 .btn {
@@ -162,6 +193,22 @@ body {
 .btn-outline:hover {
   background-color: #2563eb;
   color: #fff;
+}
+.btn {
+  background-color: #5D3FD3 !important;
+  /* Electric Indigo */
+  color: #fff;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  font-weight: 600;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #4A29B1;
+  transform: scale(1.05);
 }
 
 .social-icons {
@@ -525,6 +572,14 @@ a:hover {
 
 .project-link:hover {
   color: #82b1ff;
+}
+.project-logo {
+  width: 80px;
+  height: auto;
+  margin-bottom: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .contact-grid {
