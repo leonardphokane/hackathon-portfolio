@@ -4,9 +4,13 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Leonard Phokane — Full Stack Developer</title>
+ <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet" />
+  <!--link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet"-->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
 
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
@@ -44,18 +48,31 @@
   </header>
 
   <main>
-    <!-- Hero Section -->
+   <!-- Hero Section -->
 <section id="home" class="hero" data-aos="fade-up">
   <div class="container">
     <div class="hero-content">
-      <h2 class="greeting">Hello, I'm Leonard Phokane</h2>
-      <!--h1><span>Leonard</span> Phokane</h1-->
 
-      <!-- Profile image centered below greeting -->
-      <div class="hero-image" style="text-align: center; margin: 20px 0;">
+      <!-- 💬 Left-aligned Greeting + Description>
+      <div class="intro-wrapper" style="text-align: left; max-width: 700px; margin-left: 0;">
+        <h1 id="typed-leonard" class="text-2xl md:text-4xl font-bold mb-4"></h1-->
+        <!-- Greeting area aligned left -->
+<div class="intro-wrapper" style="text-align: left; padding-left: 10px; max-width: 700px;">
+  <h1 id="typed-leonard"></h1>
+</div>
+
+        <!--p class="hero-description">
+          Cloud Engineer & Software Developer blending modular systems with Afro-futurist storytelling.<br>
+          Passionate about real-time AI, clean UI, and scalable infrastructure.
+        </p-->
+      </div>
+
+      <!-- 🖼️ Centered Profile Image -->
+      <div class="hero-image" style="text-align: center; margin: 30px 0;">
         <img src="assets/leonard.png" alt="Leonard Phokane" class="centered-profile" />
       </div>
 
+      <!-- ✅ Centered Role Banner & Buttons remain untouched -->
       <section class="role-banner">
         <div class="banner-text">
           <span>Full Stack Developer</span>
@@ -63,18 +80,26 @@
           <span>Flutter App Developer</span>
         </div>
       </section>
+
+      <div class="hero-buttons">
+        <a href="#contact" class="btn"><i class="fas fa-paper-plane"></i> Contact Me</a>
+        <a href="#projects" class="btn btn-outline"><i class="fas fa-briefcase"></i> My Work</a>
+      </div>
+
+      <div class="social-icons">
+        <a href="https://www.linkedin.com/in/leonardphokane" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+        <a href="https://github.com/leonardphokane" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+        <a href="https://twitter.com/leonardphokane" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+        <a href="https://www.instagram.com/leonardphokane" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+      </div>
+
     </div>
   </div>
 </section>
 
 
-         <p class="hero-description">
-  Cloud Engineer & Full Stack Developer blending modular systems with Afro-futurist storytelling.<br>
-  Passionate about real-time AI, clean UI, and scalable infrastructure.
-</p>
 
-
-          <div class="hero-buttons">
+          <!--div class="hero-buttons">
             <a href="#contact" class="btn"><i class="fas fa-paper-plane"></i> Contact Me</a>
             <a href="#projects" class="btn btn-outline"><i class="fas fa-briefcase"></i> My Work</a>
           </div>
@@ -85,7 +110,7 @@
             <a href="https://www.instagram.com/leonardphokane" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
           </div>
         </div>
-      </div>
+      </div-->
     </section>
 
     <!-- About Section -->
@@ -194,6 +219,11 @@
       <li>Tailwind CSS</li>
     </ul>
     <a href="#kazilink" class="project-link">Learn More</a>
+    <div class="project-tags">
+    <span>#PowerLearnProject</span>
+    <span>#PLPCommunity</span>
+    <span>#1MillionDevs4Africa</span>
+  </div>
   </div>
 </div>
 
@@ -208,6 +238,11 @@
       <li>Domain Configuration</li>
     </ul>
     <a href="#zulutech" class="project-link">View Case Study</a>
+    <div class="project-tags">
+    <span>#PowerLearnProject</span>
+    <span>#PLPCommunity</span>
+    <span>#1MillionDevs4Africa</span>
+  </div>
   </div>
 </div>
 
@@ -222,6 +257,11 @@
       <li>UI/UX Wireframing</li>
     </ul>
     <a href="#sendmoney" class="project-link">Explore Prototype</a>
+    <div class="project-tags">
+    <span>#PowerLearnProject</span>
+    <span>#PLPCommunity</span>
+    <span>#1MillionDevs4Africa</span>
+  </div>
   </div>
 </div>
 
@@ -236,20 +276,36 @@
       <li>Data Ethics Toolkit</li>
     </ul>
     <a href="#fairness" class="project-link">Audit in Action</a>
+    <div class="project-tags">
+    <span>#PowerLearnProject</span>
+    <span>#PLPCommunity</span>
+    <span>#1MillionDevs4Africa</span>
+  </div>
   </div>
 </div>
 <div class="project-card">
   <img src="assets/hackathon-portfolio.png" alt="Hackathon Portfolio Project" class="project-img" />
-  <div class="project-details">
-    <h3>Hackathon 1 — Portfolio Building Challenge</h3>
-    <p>Collaborated with peers to build and deploy full-stack portfolios using HTML, CSS, JavaScript, and database integration. Fostered teamwork through design sharing and real-time debugging.</p>
-    <ul class="tech-stack">
-      <li>HTML/CSS</li>
-      <li>JavaScript</li>
-      <li>SQL Database</li>
-    </ul>
-    <a href="#hackathon1" class="project-link">View Build Story</a>
+ <div class="project-details">
+  <h3>Hackathon 1 — Portfolio Building Challenge</h3>
+  <p>
+    Collaborated with peers to build and deploy full-stack portfolios using HTML, CSS, JavaScript, TypeScript, and SQL databases. 
+    The challenge emphasized teamwork, accessibility, and purposeful design—blending Afro-futurist storytelling with responsive tech stacks.
+  </p>
+  <ul class="tech-stack">
+    <li>HTML/CSS</li>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
+    <li>SQL Database</li>
+  </ul>
+  <a href="#hackathon1" class="project-link">View Build Story</a>
+
+  <div class="project-tags">
+    <span>#PowerLearnProject</span>
+    <span>#PLPCommunity</span>
+    <span>#1MillionDevs4Africa</span>
   </div>
+</div>
+
 </div>
 <div class="project-card">
   <img src="assets/cloud-deploy-stack.png" alt="Cloud Deployment Stack Preview" class="project-img" />
@@ -262,6 +318,11 @@
       <li>IIS</li>
     </ul>
     <a href="#cloudstack" class="project-link">View Deployment</a>
+    <div class="project-tags">
+    <span>#PowerLearnProject</span>
+    <span>#PLPCommunity</span>
+    <span>#1MillionDevs4Africa</span>
+  </div>
   </div>
 </div>
 <div class="project-card">
@@ -275,6 +336,11 @@
       <li>Serverless Logic</li>
     </ul>
     <a href="#emailarchival" class="project-link">See Architecture</a>
+    <div class="project-tags">
+    <span>#PowerLearnProject</span>
+    <span>#PLPCommunity</span>
+    <span>#1MillionDevs4Africa</span>
+  </div>
   </div>
 </div>
 <div class="project-card">
@@ -285,6 +351,11 @@
     This project is part of Microsoft’s Data Science certification module and focuses on uncovering insights from sales, retail, and marketing datasets using Python.
     Built with a strong analytical backbone and branded visual storytelling, the project demonstrates predictive modeling, customer segmentation, and campaign impact analysis.
   </p>
+  <div class="project-tags">
+    <span>#PowerLearnProject</span>
+    <span>#PLPCommunity</span>
+    <span>#1MillionDevs4Africa</span>
+  </div>
 </div>
 
         </div>
@@ -345,6 +416,15 @@
       once: true
     });
   </script>
+  <!-- Include Typed.js library first -->
+<!-- ✅ Typed.js from CDN (perfectly fine as-is) -->
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+
+<!-- ✅ Your main script file from root folder -->
+<script src="script.js"></script>
+
+
+
 </body>
 <footer class="footer-section">
   <div class="footer-grid">
