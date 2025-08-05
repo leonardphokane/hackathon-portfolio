@@ -47,6 +47,14 @@ Built with resilience and vision, the project reflects storytelling through code
 
 #PowerLearnProject #PLPCommunity #1MillionDevs4Africa
 
+## 👨🏾‍💻 Author
+
+![Leonard Phokane — Developer Profile](leonard-profile.png)
+
+**Leonard Phokane**  
+Cloud Engineer & Software Developer blending modular systems with Afro-futurist storytelling.  
+Driven by purpose, powered by culture, and committed to building scalable tech for Africa and beyond.
+
 
 ## 📫 Contact
 - 📧 leonardphokane1@gmail.com
@@ -54,6 +62,7 @@ Built with resilience and vision, the project reflects storytelling through code
 - 🌍 South Africa
 
 ---
+
 
 
 
