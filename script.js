@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     strings: [
       "Hello, ",
       "I'm Leonard Phokane 👨🏾‍💻",
-      "Cloud Engineer blending modular systems with Afro-futurist storytelling 🌍",
+      "Mobile App Developer | Full Stack Developer | Ethical Tech Advocate blending modular systems with Afro-futurist storytelling 🌍",
       "Real-time AI • Clean UI • Scalable Infrastructure"
     ],
     typeSpeed: 50,
@@ -14,3 +14,4 @@ document.addEventListener("DOMContentLoaded", function () {
     cursorChar: "|"
   });
 });
+
