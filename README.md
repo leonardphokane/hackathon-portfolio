@@ -54,7 +54,7 @@ Built with resilience and vision, the project reflects storytelling through code
 ![Leonard Phokane — Developer Profile](leonard-profile.png)
 
 **Leonard Phokane**  
-Cloud Engineer & Software Developer blending modular systems with Afro-futurist storytelling.  
+Mobile App Developer | Backend Developer | Frontend Developer blending modular systems with Afro-futurist storytelling.  
 Driven by purpose, powered by culture, and committed to building scalable tech for Africa and beyond.
 
 
@@ -64,6 +64,7 @@ Driven by purpose, powered by culture, and committed to building scalable tech f
 - 🌍 South Africa
 
 ---
+
 
 
 
