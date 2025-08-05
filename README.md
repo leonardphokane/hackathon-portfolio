@@ -17,6 +17,7 @@ A legacy-inspired showcase built for PLP Hackathon 1: Portfolio Building. This p
 ## 🧪 Tech Stack
 - HTML5 & CSS3
 - JavaScript
+- TypeScript
 - AOS.js for scroll animations
 - Responsive grid layout
 - GitHub Pages for deployment
@@ -65,6 +66,7 @@ Driven by purpose, powered by culture, and committed to building scalable tech f
 - 🌍 South Africa
 
 ---
+
 
 
 
