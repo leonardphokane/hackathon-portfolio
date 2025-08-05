@@ -31,11 +31,22 @@ This portfolio reflects:
 - 📄 Footer with grid layout and hover effects
 - 🎯 Animated role banner: Full Stack Developer | Web Designer | Flutter App Developer
 
-## 🏆 Hackathon Impact
-Built collaboratively with peers, this portfolio demonstrates:
-- UI/UX storytelling
-- Git discipline and clean commits
-- Open-source spirit and community-driven design
+## 🚀 Hackathon Impact
+
+This portfolio was born from Hackathon 1 — a collaborative challenge hosted by Power Learn Project (PLP) to ignite African creativity through full-stack development.
+
+> “I believe technology rooted in culture empowers us to build what truly matters.” — Leonard Phokane
+
+Built with resilience and vision, the project reflects storytelling through code, modular mastery, and ethical tech principles.
+
+**Explore the build journey 👉 [phokane-creative-code.lovable.app](https://phokane-creative-code.lovable.app)**
+
+---
+
+### 🏷️ Community Tags
+
+#PowerLearnProject #PLPCommunity #1MillionDevs4Africa
+
 
 ## 📫 Contact
 - 📧 leonardphokane1@gmail.com
@@ -43,5 +54,6 @@ Built collaboratively with peers, this portfolio demonstrates:
 - 🌍 South Africa
 
 ---
+
 
 
