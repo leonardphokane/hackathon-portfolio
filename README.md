@@ -5,6 +5,8 @@
 ![PLP Impact](https://img.shields.io/badge/PLP-1MillionDevs4Africa-purple)
 
 # 🚀 Hackathon Portfolio by Leonard Phokane
+![Hackathon Portfolio Preview](hackathon-portfolio.png)
+
 
 A legacy-inspired showcase built for PLP Hackathon 1: Portfolio Building. This project blends modular frontend architecture with Afro-futurist storytelling, ethical tech principles, and scalable design.
 
@@ -62,6 +64,7 @@ Driven by purpose, powered by culture, and committed to building scalable tech f
 - 🌍 South Africa
 
 ---
+
 
 
 
