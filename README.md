@@ -95,8 +95,6 @@ Built with resilience and vision, the project reflects storytelling through code
   </p>
 </section>
  
-  
-🌍 South Africa
 
 <!-- Footer -->
 <hr>
@@ -110,6 +108,7 @@ Built with resilience and vision, the project reflects storytelling through code
 <div style="text-align: center; font-size: 10px; color: #999;">
   © 2025 Leonard Phokane | Zulutech Labs
 </div>
+
 
 
 
