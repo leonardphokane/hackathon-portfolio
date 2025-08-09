@@ -71,6 +71,8 @@ This portfolio was born from Hackathon 1 — a collaborative challenge hosted by
 
 Built with resilience and vision, the project reflects storytelling through code, modular mastery, and ethical tech principles.
 
+**Explore the build journey 👉 [My distinguished padlet](https://padlet.com/plp9/my-distinguished-padlet-obiq9mj5yr6u1mxo))**
+
 ---
 
 ## 📁 Developer Portfolio
@@ -122,6 +124,7 @@ The portfolio includes:
 <div style="text-align: center; font-size: 10px; color: #999;">
   © 2025 Leonard Phokane | Zulutech Labs
 </div>
+
 
 
 
