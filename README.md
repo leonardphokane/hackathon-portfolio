@@ -29,7 +29,7 @@
 
 ## 🌐 Live Preview
 
-🔗 [Visit Portfolio](https://phokane-creative-code.lovable.app)
+🔗 [Visit Portfolio](https://leonardphokane.github.io/hackathon-portfolio/)
 
 ---
 
@@ -97,4 +97,5 @@ Built with resilience and vision, the project reflects storytelling through code
 <div style="text-align: center; font-size: 10px; color: #999;">
   © 2025 Leonard Phokane | Zulutech Labs
 </div>
+
 
