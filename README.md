@@ -73,6 +73,20 @@ Built with resilience and vision, the project reflects storytelling through code
 
 ---
 
+## 📁 Developer Portfolio
+
+This project is part of Leonard Phokane's full-stack development journey, combining modular architecture, real-time communication, and Afrocentric storytelling.
+
+📄 [Download Leonard's Portfolio (PDF)](./leonard-portfolio.pdf)
+
+The portfolio includes:
+- MERN stack projects with full test coverage
+- Modular Express APIs and real-time chat apps
+- Community-driven open-source contributions
+- Cultural storytelling through ethical tech platforms
+
+---
+
 ## 🏷 Community Tags
 
 `#PowerLearnProject` `#PLPCommunity` `#1MillionDevs4Africa`
@@ -108,6 +122,7 @@ Built with resilience and vision, the project reflects storytelling through code
 <div style="text-align: center; font-size: 10px; color: #999;">
   © 2025 Leonard Phokane | Zulutech Labs
 </div>
+
 
 
 
