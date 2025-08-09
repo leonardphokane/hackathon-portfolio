@@ -79,8 +79,21 @@ Built with resilience and vision, the project reflects storytelling through code
 
 ---
 
-## 📫 Contact
+<section id="contact">
+  <h2>Contact</h2>
+   <!-- 👤 Profile Image -->
+  <img src="assets/leonard.png" alt="Leonard Phokane" style="width:120px; height:auto; border-radius:8px; margin-bottom:10px;" />
+  <p><strong>Author:</strong> Leonard Phokane</p>
+  <p><strong>Email:</strong> leonardphokane1@gmail.com</p>
+  <p><strong>Phone:</strong> +27 72 350 7514</p>
 
+  <!-- 🌐 Personal Website Link -->
+  <p><strong>Personal Website:</strong> 
+    <a href="https://phokane-creative-code.lovable.app/" target="_blank">
+      phokane-creative-code.lovable.app
+    </a>
+  </p>
+</section>
 📧 leonardphokane1@gmail.com  
 📞 +27 72 350 7514  
 🌍 South Africa
@@ -97,5 +110,6 @@ Built with resilience and vision, the project reflects storytelling through code
 <div style="text-align: center; font-size: 10px; color: #999;">
   © 2025 Leonard Phokane | Zulutech Labs
 </div>
+
 
 
