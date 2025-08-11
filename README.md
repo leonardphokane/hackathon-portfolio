@@ -80,7 +80,8 @@ Built with resilience and vision, the project reflects storytelling through code
 This project is part of Leonard Phokane's full-stack development journey, combining modular architecture, real-time communication, and Afrocentric storytelling.
 
 
-📄 [Download Leonard's Portfolio (PDF)]<a href="pitch-deck.pdf" target="_blank">📄 View Full Pitch Deck (PDF)</a>
+📄 [Download Leonard's Portfolio (PDF)](https://leonardphokane.github.io/hackathon-portfolio/pitch-deck.pdf)
+
 
 📘 Pitch Deck → [View on Canva](https://www.canva.com/design/DAGvvjHEiWY/keOsv3FGywlRS_Rm5YLsEQ/edit?ui=e30)
 
@@ -127,6 +128,7 @@ The portfolio includes:
 <div style="text-align: center; font-size: 10px; color: #999;">
   © 2025 Leonard Phokane | Zulutech Labs
 </div>
+
 
 
 
