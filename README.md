@@ -57,7 +57,7 @@ This portfolio reflects:
 
 - 🔧 Modular project cards with embedded images  
 - 📱 Mobile-first layout with smooth transitions  
-- 🧠 Sections for Kazilink, Zulutech, Send Money App, Fairness Inspector, and AWS deployments  
+- 🧠 Sections for Kazilink, Zulutech, Send Money App, Fairness Inspector, Real-Time Chat Application with Socket.io      and AWS deployments  
 - 📄 Footer with grid layout and hover effects  
 - 🎯 Animated role banner: Full Stack Developer | Web Designer | Flutter App Developer
 
@@ -71,7 +71,7 @@ This portfolio was born from Hackathon 1 — a collaborative challenge hosted by
 
 Built with resilience and vision, the project reflects storytelling through code, modular mastery, and ethical tech principles.
 
-**Explore the build journey 👉 [My distinguished padlet](https://padlet.com/plp9/my-distinguished-padlet-obiq9mj5yr6u1mxo))**
+**Explore the build journey 👉 [My distinguished padlet](https://padlet.com/plp9/my-distinguished-padlet-obiq9mj5yr6u1mxo)**
 
 ---
 
@@ -79,7 +79,8 @@ Built with resilience and vision, the project reflects storytelling through code
 
 This project is part of Leonard Phokane's full-stack development journey, combining modular architecture, real-time communication, and Afrocentric storytelling.
 
-📄 [Download Leonard's Portfolio (PDF)](./leonard-portfolio.pdf)
+
+📄 [Download Leonard's Portfolio (PDF)](https://github.com/leonardphokane/hackathon-portfolio/blob/main/assets/Pitch%20Deck.pdf)
 
 The portfolio includes:
 - MERN stack projects with full test coverage
@@ -124,6 +125,7 @@ The portfolio includes:
 <div style="text-align: center; font-size: 10px; color: #999;">
   © 2025 Leonard Phokane | Zulutech Labs
 </div>
+
 
 
 
